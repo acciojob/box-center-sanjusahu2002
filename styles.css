@@ -9,7 +9,7 @@
 	align-items:center;
 	justify-content:center;
 }
-body{
+#center-div{
 	display:flex;
 	justify-content:center;
 	align-items:center;
